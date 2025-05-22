@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+# Archivos generados
+dist/
+build/
+assets/*
+!.gitkeep  # Si quieres mantener la carpeta vacía
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs o temporales
+*.log
+*.tmp
+
+# Variables de entorno
+.env

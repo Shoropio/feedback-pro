@@ -1,0 +1,26 @@
+{
+	"name": "feedback-pro",
+	"version": "1.0.0",
+	"description": "Sistema interactivo de feedback con calificaci\u00f3n por estrellas, comentarios y captura de pantalla.",
+	"author": "Shoropio Corporation",
+    "homepage": "https://shoropio.com",
+	"main": "index.js",
+	"scripts": {
+		"start": "echo \"No hay un servidor configurado. Puedes usar live-server o similar.\""
+	},
+	"keywords": [
+		"feedback",
+		"html2canvas",
+		"bootstrap",
+		"captura",
+		"comentarios",
+		"estrellas",
+		"javascript"
+	],
+	"license": "GPL-3.0-or-later",
+	"dependencies": {
+		"@fortawesome/fontawesome-free": "^6.7.2",
+		"bootstrap": "^5.3.6",
+		"html2canvas": "^1.4.1"
+	}
+}
