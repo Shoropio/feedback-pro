@@ -108,10 +108,10 @@ Probado y funcional en los principales navegadores y dispositivos:
 
 ## ☕ Invítame un Café
 
-Si este proyecto te ha sido útil y quieres agradecerme, ¡puedes invitarme un café!
+Si este proyecto te ha sido útil, ¡puedes invitarme un café!
 Tu apoyo ayuda a seguir creando herramientas como esta. 🙌
 
-[☕ Invitar un café](https://www.buymeacoffee.com/)
+[☕ Invitar un café](https://buymeacoffee.com/shoropio)
 
 ---
 
