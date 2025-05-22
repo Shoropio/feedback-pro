@@ -110,7 +110,7 @@
                 background-color: #e9ecef;
                 padding: 50px;
                 margin-top: 50px;
-                border-radius: 10px;
+                border-radius: 0px;
                 text-align: center;
                 color: #495057;
             }
